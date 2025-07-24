@@ -1,5 +1,6 @@
-#Task 1
 import traceback
+
+#Task 1
 
 try:
     with open('diary.txt', 'a') as file:
